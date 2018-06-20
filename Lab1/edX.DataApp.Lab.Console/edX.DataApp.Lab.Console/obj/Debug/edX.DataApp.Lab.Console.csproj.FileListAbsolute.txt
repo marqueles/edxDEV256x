@@ -1,0 +1,7 @@
+C:\Users\marco\Documents\TFGproyect\TrialPrograms\edX.DataApp.Console\Lab1\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\bin\Debug\edX.DataApp.Lab.Console.exe.config
+C:\Users\marco\Documents\TFGproyect\TrialPrograms\edX.DataApp.Console\Lab1\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\bin\Debug\edX.DataApp.Lab.Console.exe
+C:\Users\marco\Documents\TFGproyect\TrialPrograms\edX.DataApp.Console\Lab1\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\bin\Debug\edX.DataApp.Lab.Console.pdb
+C:\Users\marco\Documents\TFGproyect\TrialPrograms\edX.DataApp.Console\Lab1\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\obj\Debug\edX.DataApp.Lab.Console.csprojAssemblyReference.cache
+C:\Users\marco\Documents\TFGproyect\TrialPrograms\edX.DataApp.Console\Lab1\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\obj\Debug\edX.DataApp.Lab.Console.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\TFGproyect\TrialPrograms\edX.DataApp.Console\Lab1\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\obj\Debug\edX.DataApp.Lab.Console.exe
+C:\Users\marco\Documents\TFGproyect\TrialPrograms\edX.DataApp.Console\Lab1\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\obj\Debug\edX.DataApp.Lab.Console.pdb
