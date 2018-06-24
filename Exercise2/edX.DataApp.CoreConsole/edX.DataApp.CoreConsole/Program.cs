@@ -22,6 +22,7 @@ namespace edX.DataApp.CoreConsole
             RunAsync().Wait();
             Console.WriteLine("Application has completed execution. Press any key to exit.");
             Console.ReadKey();
+
         }
     }
 }
