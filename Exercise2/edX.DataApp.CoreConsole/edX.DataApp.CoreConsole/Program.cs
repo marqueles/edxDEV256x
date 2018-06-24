@@ -14,7 +14,7 @@ namespace edX.DataApp.CoreConsole
                 var creator = context.GetService<IDatabaseCreator>() as RelationalDatabaseCreator;
                 await creator.ExistsAsync();
                 Console.WriteLine("Connection Succesfull");
-                new ProductQuery().RunLogic(context);
+                await new ProductAndCategoryQuery().RunLogic(context);
 
             }
         }

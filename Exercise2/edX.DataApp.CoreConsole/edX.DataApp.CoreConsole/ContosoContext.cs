@@ -13,6 +13,8 @@ namespace edX.DataApp.CoreConsole
         }
         public virtual DbSet<Product> Products { get; set; }
 
+        public virtual DbSet<ProductCategory> ProductCategories { get; set; }
+
     }
 }
 
