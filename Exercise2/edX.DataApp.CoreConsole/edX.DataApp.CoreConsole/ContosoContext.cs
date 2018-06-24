@@ -11,7 +11,7 @@ namespace edX.DataApp.CoreConsole
             string connectionString = "Data Source=trialdbmarcosserver1.database.windows.net;Initial Catalog=ContosoDB;Persist Security Info=True;User ID=marcosjgserver1;Password=Nonsomus1";
             optionsBuilder.UseSqlServer(connectionString);
         }
-            public virtual DbSet<Product> Products { get; set; }
+        public virtual DbSet<Product> Products { get; set; }
 
     }
 }
